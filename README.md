@@ -1,1 +1,2 @@
-# fail2ban-gitlab
+# GitLab Fail2Ban Filter
+
